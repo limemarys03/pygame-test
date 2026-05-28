@@ -11,7 +11,6 @@ My very first test project using the **Pygame** library. I created this while le
 
 ![Gameplay](screenshot.jpg)
 
-*(Note: Replace "screenshot.jpg" with your actual image filename if you upload it to GitHub)*
 
 ## 🛠️ How to Run
 
